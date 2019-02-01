@@ -1,1 +1,4 @@
-"# J-UI" 
+1、修改Tables_in_pintuan,pintuan为数据库名，修改dao.js数据库连接配置
+2、使用脚手架搭建好vue及koa项目
+3、在vue项目views文件夹下放置model文件夹，router文件夹下放置model.js,components文件夹下放置model.vue，api文件夹下放置model.js
+4、在koa2项目controller文件夹下放置model文件夹，routes文件夹下放置model.js，routes下的router文件夹放置model.js
